@@ -1,1 +1,1 @@
-Hello, I renamed my account. @tim-gromeyer is my new account.
+Hello, I renamed my account. [@tim-gromeyer](https://github.com/tim-gromeyer) is my new account.
